@@ -3,7 +3,7 @@
 # BoombasticComedyCountdown - Exiled - SCP: SL
 Added a countdown after the player carves a Grenade or Grenade Flash. If the player doesn't throw or cancel it in the allotted time, the Grenade will start immediately. Boooommmmbababab
 
-This plugin is only compatible with ![Exiled Framework]([https://github.com/Exiled-Team/EXILED])
+This plugin is only compatible with [EXILED FRAMEWORK](https://github.com/Exiled-Team/EXILED) 8.8.1 +
 
 ## Configuration
 ```yaml
