@@ -14,9 +14,9 @@ boombastic_comedy_countdown:
   enable_grenade_timer: true
   # Enable or disable the timer system for the Flash.
   enable_flash_timer: true
-  # The duration of the timer for the Grenade in milliseconds.
+  # The duration of the timer for the Grenade in seconds.
   grenade_timer_duration: 6
-  # The duration of the timer for the Flash in milliseconds.
+  # The duration of the timer for the Flash in seconds.
   flash_timer_duration: 6
   # The text to display when the grenade will explode.
   grenade_explode_text: '<color=yellow>Grenade will explode in</color> <color=red>{0}</color> <color=yellow>seconds</color>'
