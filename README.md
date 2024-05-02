@@ -1,4 +1,6 @@
-![Total Downloads](https://img.shields.io/github/downloads/THQuery/BoombasticComedyCountdown-Exiled/total)
+![Total Downloads](https://img.shields.io/github/downloads/THQuery/BoombasticComedyCountdown-Exiled/total) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/THQuery/BoombasticComedyCountdown-Exiled/graphs/commit-activity)
+<a href="https://github.com/THQuery/BoombasticComedyCountdown-Exiled/releases"><img src="https://img.shields.io/github/v/release/THQuery/BoombasticComedyCountdown-Exiled?include_prereleases&label=Release" alt="Releases"></a>
+<a href="https://discord.gg/PyUkWTg"><img src="https://img.shields.io/discord/656673194693885975?color=%23aa0000&label=EXILED" alt="Support"></a>
 
 # BoombasticComedyCountdown - Exiled - SCP: SL
 Added a countdown after the player carves a Grenade or Grenade Flash. If the player doesn't throw or cancel it in the allotted time, the Grenade will start immediately. Boooommmmbababab
